@@ -1,8 +1,20 @@
-### Hi there 👋
+## Hey! I'm Kevin 🌱
+
+### Currently I'm...
+- a CS Student
+- Hiker
+- Oldest Sibling!
+
+### Previously, I've worked at...
+- Clarifai
+- National Museum of Mathematics
+- Mechanical Research @ NYU
+
+### Find me around the web 🌎
+- Twitter 
+
 
 <!--
-**kevinchengny/kevinchengny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
