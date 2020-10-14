@@ -1,4 +1,4 @@
-## Hey! I'm Kevin 🌱
+## Hey! I'm Kevin 🌱 xd
 
 ### Currently I'm...
 - a CS Student
