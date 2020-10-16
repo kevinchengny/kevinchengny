@@ -11,8 +11,8 @@
 - Optimization Research @ NYU
 
 ### Find me around the web 🌎
-- Twitter 
-- Personal Website: kevinchengny.com
+- Twitter [@kevinchengny](https://twitter.com/kevinchengny)
+- Personal Website: [kevinchengny.com](https://www.kevinchengny.com/)
 
 
 <!--
