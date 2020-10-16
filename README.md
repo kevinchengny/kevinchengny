@@ -8,10 +8,11 @@
 ### Previously, I've worked at...
 - Clarifai
 - National Museum of Mathematics
-- Mechanical Research @ NYU
+- Optimization Research @ NYU
 
 ### Find me around the web 🌎
 - Twitter 
+- Personal Website: kevinchengny.com
 
 
 <!--
@@ -25,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
